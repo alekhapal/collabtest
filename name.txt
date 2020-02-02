@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Alekha PAL
 
+=======
+Alekha Pal
+>>>>>>> parent of 4702d95... updated name
